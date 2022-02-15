@@ -1,9 +1,9 @@
 ]### Who Am I:
-- 👋 Hi, I’m @Subrahmanyam Koduri
+- 👋 Hi, I’m @Varun Kumar Alapati
 - 👀 I’m interested in Data,Data Dynamics and Analytics
 - 🌱 I’m currently learning about Data
 - 💞️ I’m looking to collaborate on ...Data Technologies 
-- 📫 How to reach me ...https://www.linkedin.com/in/bala-koduri/ 
+
 
 ### Languages and Tools:
 
